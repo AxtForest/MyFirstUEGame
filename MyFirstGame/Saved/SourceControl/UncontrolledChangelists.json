@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/M_Body.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/Animations/Villeger1d.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/Animations/ABP_Villager.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/Animations/A_Fall_Loop.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/Animations/A_Idle.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/Animations/A_Jump.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/Animations/A_Land.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/Animations/A_Walk.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/M_Hat.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/SKM_Villager.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/SKM_Villager_PhysicsAsset.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/SKM_Villager_Skeleton.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/Textures/T_Villager.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/Textures/T_Villager_MRSS.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/BluePrints/BP_Enemy.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/D7/5GW0J7BEJID7UC45P3YW2P.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/9L/4KMRR033HPCSVXCDGM4XQH.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/DU/TVFWTRUMLGAT5A28WZ2YGU.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/Animations/AttackMontage.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Characters/Villager/Animations/A_Attack.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/ThirdPerson/Input/Actions/IA_Dash.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Fab/RPG_weapon_-_Axe___free_download__/Axe.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/BluePrints/BP_Coin.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Fab/Coin/Coin.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/UI/WB_Coin.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/16/MIM9W80UXWABPPBKJJ2JK8.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/ThirdPerson/Maps/Testlevel.umap",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Fab/RPG_weapon_-_Axe___free_download__/rpg_weapon_axe_free_download_texture_0.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Fab/RPG_weapon_-_Axe___free_download__/weapon_001.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/Fab/Coin/coin1.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/City_of_Brass_Enviroment/Materials/Enviro_Substance_Material.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/City_of_Brass_Enviroment/Materials/Material_instances/Ground_Sand_Inst.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/City_of_Brass_Enviroment/Materials/Paint_Ground.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/City_of_Brass_Enviroment/Materials/Material_instances/Stonework-brick_Inst2.uasset",
+				"C:/Users/ayber/OneDrive/Belgeler/Unreal Projects/MyFirstGame/Content/City_of_Brass_Enviroment/Maps/Demo_Gardens.umap"
+			]
+		}
+	]
+}
